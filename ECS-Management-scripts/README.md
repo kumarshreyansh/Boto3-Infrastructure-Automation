@@ -7,3 +7,8 @@ Update AWS profile name, cluster name and service name of ECS cluster in the scr
 
 
 Update AWS profile name in the script. That's it; you're all set
+
+# Scan environment variables of all ECS task definitions using ECStaskdefENVscanner.py 
+
+
+Update AWS profile name in the script. That's it; you're all set
